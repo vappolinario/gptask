@@ -59,17 +59,3 @@ static string GuessCommand(string raw)
     return guess;
 }
 
-// namespace GptAsk
-// {
-//     public class GptContent
-//     {
-//         [JsonProperty("model")]
-//         public string? Model { get; set; }
-//         [JsonProperty("prompt")]
-//         public string? Prompt { get; set; }
-//         [JsonProperty("temperature")]
-//         public int Temperature { get; set; }
-//         [JsonProperty("max_tokens")]
-//         public int MaxTokens { get; set; }
-//     }
-// }
